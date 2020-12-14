@@ -4,4 +4,4 @@ This repository contains all the supplementary materials used during the impleme
 
 
   Python scripts 
-    Latex and pdf version of the final report
+        Latex and pdf version of the final report
